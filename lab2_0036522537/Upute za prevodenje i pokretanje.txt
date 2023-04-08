@@ -1,0 +1,14 @@
+Prevođenje i pokretanje programa vrši se u mapi u 
+kojoj su smještene datoteke usermgmt.py i login.py
+--------------------------------------------------
+PREVOĐENJE: python usermgmt.py
+	    python login.py
+--------------------------------------------------
+POKRETANJE: python usermgmt.py {naredba_mgmt}
+	    python login.py [korisnicko_ime]
+--------------------------------------------------
+MOGUĆE VRIJEDNOSTI ZA {naredba_mgmt}: 
+	add [korisnicko_ime]
+	passwd [korisnicko_ime]
+	forcepass [korisnicko_ime]
+	del [korisnicko_ime]

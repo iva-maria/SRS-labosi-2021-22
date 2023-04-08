@@ -1,0 +1,11 @@
+Prevođenje i pokretanje programa vrši se u mapi u 
+kojoj je smještena datoteka passwordManager.py
+--------------------------------------------------
+PREVOĐENJE: python passwordManager.py
+--------------------------------------------------
+POKRETANJE: python passwordManager.py {naredba}
+--------------------------------------------------
+MOGUĆE VRIJEDNOSTI ZA {naredba}: 
+	init [lozinka]
+	put [lozinka] [adresa] [lozinkaZaAdresu]
+	get [lozinka] [adresa]
